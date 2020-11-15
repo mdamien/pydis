@@ -6,7 +6,6 @@ import collections
 import itertools
 import sys
 import time
-from typing import Any
 
 import hiredis
 import uvloop
